@@ -1,6 +1,6 @@
-# jpa02-zhaotang
+# jpa02-BaldPulse
 
-Repo: https://github.com/ucsb-cs156-w21/jpa02-zhaotang
+Repo: https://github.com/ucsb-cs156-w21/jpa02-BaldPulse
 
 On Heroku: https://jpa02-z-tang.herokuapp.com/
 * TODO: Correct the links to codecov report below
