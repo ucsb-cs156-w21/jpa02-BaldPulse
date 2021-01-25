@@ -3,11 +3,8 @@
 Repo: https://github.com/ucsb-cs156-w21/jpa02-BaldPulse
 
 On Heroku: https://jpa02-z-tang.herokuapp.com/
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-BaldPulse/
 
 
 # About this repo
